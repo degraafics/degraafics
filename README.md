@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @degraafics
 - 👀 I’m interested in user experience and great design.
-- 🌱 I’m currently learning lots and lots about accessiblity requirements.
+- 🌱 I’m currently learning about JamStack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me degraafics@gmail.com
 
